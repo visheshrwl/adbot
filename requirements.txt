@@ -1,0 +1,6 @@
+mindsdb
+slack-bolt
+tweepy
+discord.py
+textblob
+python-dotenv
